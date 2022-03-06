@@ -1,0 +1,2 @@
+<div style="padding:30px;font-size:12pt;"><center>Twój email został usunięty z naszej bazy danych.</center></div>
+<div style="padding:30px;font-size:12pt;"><center><input type="button" value="Zamknij" onclick="window.close()" /></div>
